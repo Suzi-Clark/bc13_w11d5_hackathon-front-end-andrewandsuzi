@@ -6,9 +6,11 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif; */
   font-family: 'Indie Flower', cursive;
-  font-size: large;
+  font-size: larger;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('dino\ pattern.jpg');
+  background-size: 75vh;
 }
 
 code {
